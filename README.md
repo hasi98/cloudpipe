@@ -64,13 +64,3 @@ no credit card needed!
 ⭐ Star this repo if you find it useful!
 ```
 
----
-
-## Steps
-```
-1. github.com → New repository
-2. Name: cloudpipe
-3. Public ✅
-4. Add README above
-5. Add a screenshot of dashboard
-6. Publish!
