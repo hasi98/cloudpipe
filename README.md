@@ -6,7 +6,6 @@ CloudPipe is a cloud download manager that fetches
 torrents, magnet links and direct URLs on remote 
 servers and sends them straight to your Google Drive.
 
-![CloudPipe Dashboard](screenshot.png)
 
 ## ✨ Features
 
